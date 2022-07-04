@@ -100,7 +100,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>ImageSources/1.PNG</pixmap>
+       <pixmap>../ImageSource/1.PNG</pixmap>
       </property>
      </widget>
      <widget class="Line" name="line_2">
@@ -170,7 +170,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>ImageSources/2.PNG</pixmap>
+       <pixmap>../ImageSource/2.PNG</pixmap>
       </property>
      </widget>
      <widget class="Line" name="line_4">
@@ -266,7 +266,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>ImageSources/3.PNG</pixmap>
+       <pixmap>../ImageSource/3.PNG</pixmap>
       </property>
      </widget>
      <widget class="QPushButton" name="Wind3Cancel">
